@@ -11,7 +11,7 @@
 - Git & GitHub
 
 ## 📌 Portfolio
-🔗 https://yourname.netlify.app
+🔗 https://sxndy-portfolio.netlify.app
 
 ## 📫 Connect With Me
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/santhosh-k-908182291
